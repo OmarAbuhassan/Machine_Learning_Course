@@ -12,6 +12,6 @@
 6. simple neural network
 7. Decision Trees and Ensembles 
 
-## types of works: 
+## Types of works: 
 1. Implement from scratch classifiers
 2. Using classifiers from famous libraries 
